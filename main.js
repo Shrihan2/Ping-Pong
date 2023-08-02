@@ -18,8 +18,9 @@ function setup(){
   var canvas =  createCanvas(700,600);
 }
 
-function draw(){
+function restart(){}
 
+function draw(){
  background(0); 
 
  fill("black");
